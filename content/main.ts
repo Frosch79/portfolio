@@ -5,8 +5,8 @@ export const attributes = {
       link: '/#portfolio',
       text: 'Portfolio',
     },
-    heading: "I'm Frosch Cu, and I create",
-    image: '/img/hero.jpeg',
+    heading: "I'm Frosch , and I create",
+    image: '/img/_DSF4622.jpg',
     secondButton: { icon: 'whatsapp', link: '/#about', text: 'About me' },
     social: {
       facebook: { link: 'https://facebook.com', show: true },
